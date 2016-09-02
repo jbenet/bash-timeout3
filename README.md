@@ -78,10 +78,10 @@ therefore all time values must be integers.
 
 This little script has a fun history:
 
-- 2011: script contributed to bash by @golovashkin
-- 2011: cleaned up by Chet
-- 2013: removed from bash at the request of FSF
-- 2016: MIT Licensed by @golovashkin at the request of @jbenet
+- [2011: script contributed to bash by @golovashkin](http://git.savannah.gnu.org/cgit/bash.git/commit/examples/scripts/timeout3?h=bash-4.3-testing&id=10a4e4150a80cea016284e7fd9e7f6ee493cbb8a)
+- [2011: cleaned up by Chet](http://git.savannah.gnu.org/cgit/bash.git/commit/examples/scripts/timeout3?h=bash-4.3-testing&id=67362c60915419501419b047cc80d77ee9af2284)
+- [2013: removed from bash at the request of FSF](http://git.savannah.gnu.org/cgit/bash.git/commit/examples/scripts/timeout3?h=bash-4.3-testing&id=8eb22ee966b0276194bbda0d6c8b109f4636edd3)
+- [2016: MIT Licensed by @golovashkin at the request of @jbenet](https://github.com/ipfs/go-ipfs/pull/3152#issuecomment-244121673) ([picture](https://ipfs.io/ipfs/QmaEaddscAjw6yVZqQ6gJtC6xeTVMJ7PV5tkktDGm7Za8H/golovashkin-license.png))
 
 See version histories at:
 - http://git.savannah.gnu.org/cgit/bash.git/log/examples/scripts/timeout3?h=bash-4.3-testing
